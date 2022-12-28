@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-calculator-by-chatgpt/static/css/main.31d6cfe0.css",
+    "main.js": "/react-calculator-by-chatgpt/static/js/main.18c6b0dd.js",
+    "static/js/787.a174f9e5.chunk.js": "/react-calculator-by-chatgpt/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/react-calculator-by-chatgpt/index.html",
+    "main.18c6b0dd.js.map": "/react-calculator-by-chatgpt/static/js/main.18c6b0dd.js.map",
+    "787.a174f9e5.chunk.js.map": "/react-calculator-by-chatgpt/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.18c6b0dd.js"
+  ]
+}
